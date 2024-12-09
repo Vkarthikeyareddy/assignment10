@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/557868091806494507/7f618541edb9423a810bd10e02f1a01c/artifacts
+end_time: 1732851453927
+entry_point_name: ''
+experiment_id: '557868091806494507'
+lifecycle_stage: active
+run_id: 7f618541edb9423a810bd10e02f1a01c
+run_name: thundering-mole-634
+run_uuid: 7f618541edb9423a810bd10e02f1a01c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732851453729
+status: 4
+tags: []
+user_id: ual-laptop

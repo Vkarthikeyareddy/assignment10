@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/557868091806494507/0fd2facd97a848d9a72757ded38df0bf/artifacts
+end_time: 1732851690167
+entry_point_name: ''
+experiment_id: '557868091806494507'
+lifecycle_stage: active
+run_id: 0fd2facd97a848d9a72757ded38df0bf
+run_name: luminous-cow-488
+run_uuid: 0fd2facd97a848d9a72757ded38df0bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732851689982
+status: 3
+tags: []
+user_id: ual-laptop

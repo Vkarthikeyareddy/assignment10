@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/557868091806494507/f916da9334944e0288de92b6a81f8267/artifacts
+end_time: 1732851661624
+entry_point_name: ''
+experiment_id: '557868091806494507'
+lifecycle_stage: active
+run_id: f916da9334944e0288de92b6a81f8267
+run_name: grandiose-quail-123
+run_uuid: f916da9334944e0288de92b6a81f8267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732851659462
+status: 4
+tags: []
+user_id: ual-laptop

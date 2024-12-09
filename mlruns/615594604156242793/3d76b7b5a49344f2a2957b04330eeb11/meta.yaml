@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/615594604156242793/3d76b7b5a49344f2a2957b04330eeb11/artifacts
+end_time: 1732851922454
+entry_point_name: ''
+experiment_id: '615594604156242793'
+lifecycle_stage: active
+run_id: 3d76b7b5a49344f2a2957b04330eeb11
+run_name: defiant-gull-183
+run_uuid: 3d76b7b5a49344f2a2957b04330eeb11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732851915942
+status: 3
+tags: []
+user_id: ual-laptop

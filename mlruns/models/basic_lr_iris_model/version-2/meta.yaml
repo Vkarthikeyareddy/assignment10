@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1732852297778
+current_stage: None
+description: ''
+last_updated_timestamp: 1732852297778
+name: basic_lr_iris_model
+run_id: 3d76b7b5a49344f2a2957b04330eeb11
+run_link: ''
+source: models:/basic_lr_iris_model/1
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/615594604156242793/3d76b7b5a49344f2a2957b04330eeb11/artifacts/iris_model
+user_id: null
+version: 2
